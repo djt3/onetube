@@ -52,6 +52,25 @@ li {
   margin: 50px 50px 50px 50px;
 }
 
+video {
+  float: left;
+  width: 100%;
+}
+
+.video {
+  float: left;
+  width: 75%;
+}
+
+.vertical {
+  columns: 1;
+  width: 25%;
+}
+
+.watch {
+  display: flex;
+}
+
 .header {
   display: flex;
   align-items:center;
@@ -81,3 +100,4 @@ li {
 .video_channel h2 {
   border-top: 1px solid;
 }
+
