@@ -1,0 +1,1 @@
+A simple C++ library for interfacing with video websites (currently just youtube). It can extract videos from an url (eg. suggestions or videos on the trending page) as well as the direct (googlevideo.com) video url, for downloading or watching in mpv without youtube-dl. To use, just clone and include videx.hpp.
