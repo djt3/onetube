@@ -55,6 +55,7 @@ li {
 video {
   float: left;
   width: 100%;
+  padding: 70px;
 }
 
 .video {

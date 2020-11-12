@@ -28,11 +28,11 @@ namespace videx::extractors::yt {
 
         if (temp_index == std::string::npos)
           break;
-
-        index = temp_index;
       }
       else
         compact = true;
+
+      index = temp_index;
 
       video video;
 
